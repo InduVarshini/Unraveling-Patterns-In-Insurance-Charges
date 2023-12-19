@@ -28,8 +28,6 @@ The final report (`final_report.pdf`) offers an in-depth narrative of our invest
 
 Our presentation slides (`presentation_slides.pdf`) provide a concise overview of the project, emphasizing key insights and findings.
 
-## Video Presentation
-
 To gain a visual perspective on our project and better understand the determinants of variability in insurance costs, we encourage you to watch our video presentation on YouTube: [Project Video Presentation](https://www.youtube.com/watch?v=f8VYyrw_g9g).
 
 Feel free to explore the files, delve into our analyses, and engage with the content to deepen your understanding of the factors influencing insurance costs across the United States healthcare landscape.
