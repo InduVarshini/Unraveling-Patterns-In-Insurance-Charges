@@ -5,17 +5,17 @@ Welcome to the repository for the final project of STAT 5000 coursework, where w
 ## Files in the Repository
 
 1. **Code:**
-   - `analysis_code.ipynb`: [a link](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/analysis_code.ipynb) Jupyter Notebook containing the Python code used for data analysis.
+   - [`analysis_code.ipynb`](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/analysis_code.ipynb): Jupyter Notebook containing the Python code used for data analysis.
 
 2. **Reports:**
-   - `STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf`: The comprehensive final report detailing our methodology, findings, and conclusions.
+   - [`STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf`](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf): The comprehensive final report detailing our methodology, findings, and conclusions.
 
 3. **LaTeX Zip File:**
-   - `STAT 5000 - Final Project Report - Insurance Costs Analysis.zip`: LaTeX document along with the files used for generating the final report.
+   - [`STAT 5000 - Final Project Report - Insurance Costs Analysis.zip`](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/STAT%205000%20-%20Final%20Project%20Report%20-%20Insurance%20Costs%20Analysis.zip): LaTeX document along with the files used for generating the final report.
 
 4. **Presentation:**
-   - `presentation_slides.pdf`: PDF version of the presentation slides used during our project presentation.
-   - `presentation_slides.pptx`: PPTX version of the presentation slides.
+   - [`presentation_slides.pdf`](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/presentation_slides.pdf): PDF version of the presentation slides used during our project presentation.
+   - [`presentation_slides.pptx`](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/presentation_slide_deck.pptx): PPTX version of the presentation slides.
 
 5. **Video Presentation:**
    - [Watch our video presentation on YouTube](https://www.youtube.com/watch?v=f8VYyrw_g9g): Gain insights and a deeper understanding of our project through our video presentation.
