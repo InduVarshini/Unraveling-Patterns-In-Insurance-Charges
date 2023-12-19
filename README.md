@@ -5,7 +5,7 @@ Welcome to the repository for the final project of STAT 5000 coursework, where w
 ## Files in the Repository
 
 1. **Code:**
-   - `analysis_code.ipynb`: Jupyter Notebook containing the Python code used for data analysis.
+   - `analysis_code.ipynb`: [a link](https://github.com/user/repo/blob/branch/other_file.md](https://github.com/InduVarshini/Unraveling-Patterns-In-Insurance-Charges/blob/main/analysis_code.ipynb) Jupyter Notebook containing the Python code used for data analysis.
 
 2. **Reports:**
    - `STAT5000-FinalProjectReport-UnravelingPatternsInInsuranceCharges.pdf`: The comprehensive final report detailing our methodology, findings, and conclusions.
