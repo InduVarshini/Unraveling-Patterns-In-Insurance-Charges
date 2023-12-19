@@ -1,4 +1,4 @@
-# STAT 5000 Coursework Final Project - Investigating Determinants of Variability in Insurance Costs Across the United States Healthcare Landscape
+# Investigating Determinants of Variability in Insurance Costs Across the United States Healthcare Landscape
 
 Welcome to the repository for the final project of STAT 5000 coursework, where we delve into investigating the determinants of variability in insurance costs across the United States healthcare landscape. In this project, our focus is on exploring and understanding the factors that contribute to the diverse range of insurance costs.
 
