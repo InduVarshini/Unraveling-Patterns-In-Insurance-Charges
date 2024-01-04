@@ -2,6 +2,13 @@
 
 Welcome to the repository for the final project of STAT 5000 coursework, where we delve into investigating the determinants of variability in insurance costs across the United States healthcare landscape. In this project, our focus is on exploring and understanding the factors that contribute to the diverse range of insurance costs.
 
+Team Members:
+* Dhanavikram Sekar
+* Hariharan Kumar
+* Indu Varshini Jayapal
+* Naveen Vinayaga Murthy
+* Nidhi Choudhary
+
 ## Files in the Repository
 
 1. **Code:**
